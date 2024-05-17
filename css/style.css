@@ -994,6 +994,7 @@ h1 {
   width: 100%;
   font-weight: bold; /* Deixa o texto em negrito */
   margin-left: 145px;
+  max-width: 1400px;
 }
 
 h2{
@@ -1005,6 +1006,7 @@ h2{
 	width: 100%;
 	font-weight: bold; /* Deixa o texto em negrito */
 	margin-left: 145px;
+	max-width: 1400px;
   }
 
   h3 {
@@ -1016,12 +1018,14 @@ h2{
 	width: 100%;
 	font-weight: bold; /* Deixa o texto em negrito */
 	margin-left: 145px;
+	  	max-width: 1400px;
   }
 
  h4 {
     position: absolute;
     color: white;
     font-size: 15px;
+	 	max-width: 1400px;
 }
 
 h5 {
@@ -1029,6 +1033,7 @@ h5 {
     font-size: 28px;
     color: white;
     font-weight: bold;
+		max-width: 1400px;
 }
 
 h6 {
@@ -1038,6 +1043,7 @@ h6 {
 	font-weight: 400;
 	font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size: 17px;
+		max-width: 1400px;
 }
 
 .link-text{
